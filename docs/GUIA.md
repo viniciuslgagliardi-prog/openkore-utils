@@ -78,7 +78,7 @@ py -3 -m openkore_utils
 
 ## 4. Primeira execução
 
-<!-- Imagem: docs/img/screenshot-setup.png -->
+![Aba Setup — pastas OpenKore e Ragnarok](img/screenshot-setup.png)
 
 1. **Clique com o botão direito** em `OpenKoreUtils.exe` → **Executar como administrador**.
 2. No canto superior direito deve aparecer o badge verde **Admin**.
@@ -122,7 +122,7 @@ A seção **Paths** mostra onde o app vai ler/escrever:
 
 ## 6. Aba Network / DNS — rede
 
-<!-- Imagem: docs/img/screenshot-network.png -->
+![Network / DNS — IP 172.65.* na lista](img/screenshot-network.png)
 
 ### Entenda os IPs
 
@@ -164,7 +164,7 @@ O OpenKore precisa dos dois: LAN para navegar e `172.65.*` para o cliente enxerg
 
 ## 7. Aba Profiles — perfis e execução
 
-<!-- Imagem: docs/img/screenshot-profiles.png -->
+![Profiles — Run OpenKore e Run Ragexe](img/screenshot-profiles.png)
 
 ### Criar um perfil novo
 
