@@ -1,18 +1,11 @@
-# Screenshots para o README
+# Screenshots
 
-Coloque aqui três capturas do app (PNG, ~520px de largura):
+Capturas usadas no [README](../README.md) e no [GUIA](../GUIA.md):
 
-| Arquivo | O que mostrar |
-|---------|----------------|
-| `screenshot-setup.png` | Aba **Setup** com pastas OpenKore e Ragnarok validadas (checks OK) |
-| `screenshot-network.png` | Aba **Network / DNS** com IP `172.65.*` na lista **Added IPs** |
-| `screenshot-profiles.png` | Aba **Profiles** com perfil na tabela e botões **Run OpenKore** / **Run Ragexe** |
+| Arquivo | Aba |
+|---------|-----|
+| `screenshot-setup.png` | **Setup** — pastas OpenKore e Ragnarok |
+| `screenshot-network.png` | **Network / DNS** — IP `172.65.*` e ações |
+| `screenshot-profiles.png` | **Profiles** — perfis e botões Run |
 
-## Como capturar
-
-1. Abra `OpenKoreUtils.exe` como administrador.
-2. `Win + Shift + S` → recorte da janela.
-3. Salve com os nomes acima nesta pasta.
-4. Commit: `docs: add app screenshots`
-
-Até as imagens existirem, o README pode mostrar ícone quebrado no GitHub — isso é esperado.
+Para atualizar: substitua o PNG e faça commit `docs: update app screenshots`.

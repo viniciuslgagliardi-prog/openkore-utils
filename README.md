@@ -2,7 +2,9 @@
 
 Ferramentas de rede para **OpenKore** no **latamRO** — modo **XKore 1 + bridge** (login pelo Ragexe).
 
-> **Screenshots:** adicione PNGs em [`docs/img/`](docs/img/README.md) (`screenshot-setup.png`, `screenshot-network.png`, `screenshot-profiles.png`) para exibir capturas no README e no [GUIA](docs/GUIA.md).
+<p align="center">
+  <img src="docs/img/screenshot-profiles.png" alt="Aba Profiles — Run OpenKore e Run Ragexe" width="520">
+</p>
 
 ## Documentação
 
@@ -23,9 +25,11 @@ Ferramentas de rede para **OpenKore** no **latamRO** — modo **XKore 1 + bridge
 
 Tutorial detalhado: **[docs/GUIA.md](docs/GUIA.md)**
 
-## Capturas de tela (opcional)
+## Capturas de tela
 
-Instruções em **[docs/img/README.md](docs/img/README.md)**. Depois de salvar os PNGs, o README e o guia passam a exibir as imagens automaticamente.
+| Setup | Network / DNS | Profiles |
+|:-----:|:-------------:|:--------:|
+| ![Setup](docs/img/screenshot-setup.png) | ![Network](docs/img/screenshot-network.png) | ![Profiles](docs/img/screenshot-profiles.png) |
 
 ## O que faz
 
