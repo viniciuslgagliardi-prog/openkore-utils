@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Local config (user machine)
+openkore_utils_config.json
+rede_config.json
+network_config.json
+
+# Compiled binaries (build with build.bat)
+*.exe
+
+# IDE / OS
+.cursor/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# RE / unpack data (generated locally)
+ptr/unpacked_Ragexe.exe
