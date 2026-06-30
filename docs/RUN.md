@@ -1,9 +1,9 @@
-# How to run (quick guide)
+# Como rodar (resumo)
 
-1. Open **OpenKoreUtils.exe** as administrator
-2. **Home** tab → select Wi-Fi or Ethernet → **Configure everything automatically**
-3. Start OpenKore (`Documents\openkore\openkore.bat`)
-4. Launch the game via the **Ragnarok OpenKore** shortcut
-5. When done: **Restore automatic (DHCP)** on the Home tab
+Guia completo: **[GUIA.md](GUIA.md)**
 
-Full guide will be migrated from `OpenKoreUtils\RODAR.txt`.
+1. **OpenKoreUtils.exe** → executar como **administrador**
+2. **Setup** → pastas OpenKore + Ragnarok → **Save**
+3. **Network / DNS** → adaptador → **Apply network from adapter** → **Add** (`172.65.*`)
+4. **Profiles** → perfil → **Run OpenKore** → **Run Ragexe** → login no jogo
+5. Fim da sessão → **Reset setup** (DHCP)
